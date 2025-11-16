@@ -1,5 +1,0 @@
-service:
-  name: "test-repo-empty"
-  team: ""
-  description: ""
-  links: []
