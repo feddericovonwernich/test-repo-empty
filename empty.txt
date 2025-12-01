@@ -1,0 +1,2 @@
+This repository intentionally has no README, LICENSE, CI config, or tests.
+It should fail all scorecards checks and receive a score of 0.
